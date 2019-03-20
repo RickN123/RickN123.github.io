@@ -1,0 +1,30 @@
+.container{
+    width: 100%;
+    padding: 25px;
+    background-color: coral;
+    color: white;
+    font-size: 25px;
+  }
+  .main-bio{ 
+    width: 100%;
+    padding: 25px;
+    background-color: coral;
+    color: white;
+    font-size: 25px;
+  }
+  .body{
+      margin:0;
+      padding:0;
+  }
+  .header{
+      background-color: #333333;
+  }
+  .h1{
+      color:#eee;
+      font-size: 28px;
+  }
+  .h2{
+      font-size: 28px;
+      width: 1024px;
+      margin:0 auto;
+  }
